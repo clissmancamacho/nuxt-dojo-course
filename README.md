@@ -39,4 +39,8 @@ Locally preview production build:
 npm run preview
 ```
 
+## Live Demo
+
+https://beautiful-salmiakki-c14d7d.netlify.app/
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
